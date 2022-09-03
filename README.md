@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jssaves
-- 👀 I’m interested in learn
+- 👀 I’m interested in learn as an hobby
 - 🌱 I’m currently learning javascript and react
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
